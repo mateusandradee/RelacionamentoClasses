@@ -1,1 +1,6 @@
 "Relacione e explique os conceitos de acordo com seu código."
+Nesse sistema, existe uma agregação entre Curso e Instrutor,
+pois um curso pode ter vários instrutores, e cada instrutor pode
+participar de vários cursos. O instrutor continua existindo mesmo que
+ocurso acabe. Ou seja, eles estão ligados, mas de forma independente.
+Isso permite uma gestão mais flexível dos cursos e dos profissionais envolvidos.
