@@ -1,0 +1,5 @@
+"Relacione e explique os conceitos de acordo com seu código."
+Nesse sistema, temos uma composição entre Computador e PlacaMae,
+pois a placa-mãe faz parte do computador e não existe separadamente.
+Quando o computador é criado ou apagado, a placa-mãe também é.
+A relação é forte e mostra que a placa-mãe depende totalmente do computador.
