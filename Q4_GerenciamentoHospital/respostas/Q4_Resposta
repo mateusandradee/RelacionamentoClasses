@@ -1,0 +1,5 @@
+"Relacione e explique os conceitos de acordo com seu código."
+Neste sistema, há três tipos de relação:
+Composição entre Hospital e UnidadeAtendimento, porque as unidades só existem dentro de um hospital.
+Agregação entre UnidadeAtendimento e Medico, já que os médicos podem trabalhar em várias unidades ou hospitais diferentes.
+Associação entre Medico e Paciente, pois ambos são independentes, mas se conectam durante a consulta.
