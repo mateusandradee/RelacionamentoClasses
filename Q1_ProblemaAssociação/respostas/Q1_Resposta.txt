@@ -1,1 +1,2 @@
 "Relacione e explique os conceitos de acordo com seu código."
+Nessa questão tem-se uma associação entre as classes Pessoa e Carro, pois ambas existem independentemente, mas se relacionam. A Pessoa pode dirigir vários carros, e o método usarCarro(Carro carro) registra isso. Já o Carro tem um método dirigir() e pertence a apenas uma pessoa por vez, sem guardar histórico de motoristas. Essa associação reflete uma relação de uso sem tanta dependência entre os objetos.
